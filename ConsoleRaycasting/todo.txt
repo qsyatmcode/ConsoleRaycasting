@@ -1,0 +1,5 @@
+﻿ - Parsing the .conf config file
+ - Load map from .map file
+ - Read player's input in separate background thread
+ - Ray casting
+ - Moving in world (WASD for movement and QE for rotating the camera)
